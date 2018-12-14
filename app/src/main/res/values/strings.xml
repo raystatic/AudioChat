@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">AudioChat</string>
+
+    <!--db keys-->
+    <string name="name">name</string>
+    <string name="phone">phone</string>
+    <string name="status">status</string>
+    <string name="users">users</string>
+
+    <!--toasts-->
+    <string name="user_add_success">User addition successful</string>
+    <string name="user_add_failed">User addition failure</string>
+    <string name="please_enter_user_name">Please enter your name</string>
+    <string name="something_went_wrong">Something went wrong.. Please try again</string>
+    <string name="quota_exceeded">Quota exceeded</string>
+    <string name="otp_has_been_sent">OTP has been resent</string>
+    <string name="otp_request_sent">OTP Request sent</string>
+
+    <!--general purpose strings-->
+    <string name="default_status">Hi there!</string>
+    <string name="invalid_phone_number">Invalid Phone number</string>
+    <string name="we_have_sent_otp_to">We have sent an OTP to</string>
+    <string name="otp_cannot_be_empty">OTP cannot be empty</string>
+    <string name="sign_in_success">Sign In With Credential: Success</string>
+    <string name="sign_in_failure">Sign In With Credential: Failure</string>
+    <string name="resend_otp">RESEND OTP</string>
+    <string name="audio_chat">Audio Chat</string>
+    <string name="send_otp">Send Otp</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="otp_goes_here">OTP goes here</string>
+    <string name="verify_otp">Verify Otp</string>
+    <string name="status_text">Status</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="write_status">Write a status (optional)</string>
+    <string name="submit">Submit</string>
+    <string name="otp_verified">OTP Verified</string>
+
+</resources>

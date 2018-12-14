@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "965863081168",
+    "firebase_url": "https://audiochat-2364b.firebaseio.com",
+    "project_id": "audiochat-2364b",
+    "storage_bucket": "audiochat-2364b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965863081168:android:c9b1fedfc9c2e712",
+        "android_client_info": {
+          "package_name": "com.example.rahul.audiochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965863081168-qful3sa5u37cp3pu6c1n25pldscci513.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rahul.audiochat",
+            "certificate_hash": "02710064173b24cb0c2eeab52437443eb9005b0a"
+          }
+        },
+        {
+          "client_id": "965863081168-821m0tltijv2ucv7abljaf2h6e2es1j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXZwHQq5OXcJDMhiddD9fHWDe-ruN5Qv8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965863081168-821m0tltijv2ucv7abljaf2h6e2es1j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
