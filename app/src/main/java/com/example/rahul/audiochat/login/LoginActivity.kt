@@ -4,13 +4,13 @@ import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.text.TextUtils
 import com.example.rahul.audiochat.R
+import com.example.rahul.audiochat.home.HomeActivity
 import com.example.rahul.audiochat.profile.ProfileActivity
 import com.example.rahul.audiochat.shared_prefences.PrefManager
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.FirebaseUser
 import kotlinx.android.synthetic.main.activity_login.*
-import org.jetbrains.anko.startActivity
-import org.jetbrains.anko.toast
+import org.jetbrains.anko.*
 
 class LoginActivity : AppCompatActivity() {
 
@@ -22,9 +22,6 @@ class LoginActivity : AppCompatActivity() {
 
         //startActivity<ProfileActivity>()
         prefManager= PrefManager(this)
-        if (FirebaseAuth.getInstance()==null){
-            toast("user does not exist")
-        }
 
         btn_send_otp.setOnClickListener {
             if (!TextUtils.isEmpty(et_phone.text) && et_phone.text.length==10){

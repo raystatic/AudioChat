@@ -51,6 +51,7 @@ dependencies {
     implementation 'com.firebaseui:firebase-ui-auth:4.1.0'
 
     //crop image
+    implementation 'com.android.support:support-v4:27.1.1'
     compile 'com.theartofdev.edmodo:android-image-cropper:2.7.0'
 
     //glide

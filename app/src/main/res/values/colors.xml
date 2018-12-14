@@ -3,6 +3,7 @@
     <color name="colorPrimary">#4286F4</color>
     <color name="colorPrimaryDark">#4262F1</color>
     <color name="colorAccent">#4262F1</color>
+    <color name="tabIndicator">#7fa3de</color>
 
     <color name="white">#ffffff</color>
     <color name="black">#000</color>

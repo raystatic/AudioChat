@@ -35,4 +35,11 @@
     <string name="submit">Submit</string>
     <string name="otp_verified">OTP Verified</string>
 
+    <string name="tab1_title">Home</string>
+    <string name="tab2_title">Favorites</string>
+    <string name="tab3_title">Contacts</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
